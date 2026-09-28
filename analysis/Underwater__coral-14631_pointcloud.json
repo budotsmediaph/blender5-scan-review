@@ -1,0 +1,65 @@
+{
+ "name": "Underwater__coral-14631_pointcloud",
+ "src": "_DUPLICATES_DISK8/Underwater-Reef/coral_pointcloud+video/coral_14631_point_cloud.ply",
+ "kind": "pcd",
+ "comments": [
+  "comment Created by Open3D"
+ ],
+ "raw_points": 1328483,
+ "source_offset": [
+  0.04787123203277588,
+  -0.33521947264671326,
+  0.4686368703842163
+ ],
+ "orientation": "auto PCA (eigen ratios 0.084, 0.785)",
+ "points_after_trim": 1311779,
+ "geometry": {
+  "voxel_size": 0.03463123457675331,
+  "voxels": 17521,
+  "flat_frac": 0.7297177004234107,
+  "linear_frac": 0.07338086059958665,
+  "median_scatter": 0.00631700950033583,
+  "wall_frac_of_flat": 0.2782070933421023,
+  "horiz_frac_of_flat": 0.028571731647422605,
+  "flat_frac_nonhoriz": 0.729660412260282,
+  "wall_orthogonality": 0.13447057346441574,
+  "plane_cover_top12": 0.270975,
+  "plane_cover_excl_largest": 0.23670833333333335,
+  "largest_plane": 0.03426666666666667,
+  "plane_normals_z": [
+   0.63,
+   0.94,
+   0.78,
+   1.0,
+   0.43,
+   0.91,
+   0.43,
+   0.87,
+   1.0,
+   0.91,
+   1.0,
+   0.99
+  ],
+  "coarse": {
+   "voxel_size": 0.13852493830701323,
+   "voxels": 15183,
+   "flat_frac": 0.4917885484727722,
+   "linear_frac": 0.10219239464285865,
+   "median_scatter": 0.05962522587605013,
+   "wall_frac_of_flat": 0.2749362063103378,
+   "horiz_frac_of_flat": 0.029415502124166732,
+   "flat_frac_nonhoriz": 0.5036934307416455,
+   "wall_orthogonality": 0.10159860658672405
+  },
+  "extent_xyz": [
+   32.587,
+   28.295,
+   7.002
+  ],
+  "cad_score": 21.9
+ },
+ "display_radius": 0.0265121131347061,
+ "seconds": 2.0,
+ "blend": "blend/Underwater__coral-14631_pointcloud.blend",
+ "blend_mb": 20.4
+}

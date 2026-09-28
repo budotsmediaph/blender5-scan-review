@@ -1,0 +1,75 @@
+{
+ "name": "PH-Palawan-ElNido__nacpan-beach_glb",
+ "src": "PH-Palawan-ElNido/polycam-exports_glb-blend-video/elnido-nacpan.glb",
+ "kind": "glb",
+ "weld": {
+  "Mesh_0": [
+   1312678,
+   1073680
+  ]
+ },
+ "raw_points": 1073680,
+ "orientation": "auto PCA (eigen ratios 0.000, 0.076)",
+ "topology": {
+  "Mesh_0": {
+   "verts": 1073680,
+   "faces": 2145379,
+   "tris": 2145379,
+   "quads": 0,
+   "ngons": 0,
+   "boundary_edges": 2133,
+   "nonmanifold_edges": 2,
+   "loose_edges": 0,
+   "euler_char": -74,
+   "planar_dissolve_5deg_face_ratio": 0.716555
+  }
+ },
+ "geometry": {
+  "voxel_size": 0.014506229064844757,
+  "voxels": 33062,
+  "flat_frac": 0.5401894858516313,
+  "linear_frac": 0.048706257941113065,
+  "median_scatter": 0.01417962013315801,
+  "wall_frac_of_flat": 0.01097716045844664,
+  "horiz_frac_of_flat": 0.7746720756407236,
+  "flat_frac_nonhoriz": 0.1897375200167096,
+  "wall_orthogonality": 0.09996204265791309,
+  "plane_cover_top12": 0.9901416666666666,
+  "plane_cover_excl_largest": 0.4298166666666666,
+  "largest_plane": 0.560325,
+  "plane_normals_z": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.82,
+   1.0,
+   1.0
+  ],
+  "coarse": {
+   "voxel_size": 0.05802491625937903,
+   "voxels": 5661,
+   "flat_frac": 0.4721882829295857,
+   "linear_frac": 0.056784438610836166,
+   "median_scatter": 0.009528121099196698,
+   "wall_frac_of_flat": 0.0003942756720022666,
+   "horiz_frac_of_flat": 0.9070975564814759,
+   "flat_frac_nonhoriz": 0.10505195634505979,
+   "wall_orthogonality": 0.0
+  },
+  "extent_xyz": [
+   8.643,
+   5.679,
+   0.246
+  ],
+  "cad_score": 14.2
+ },
+ "seconds": 15.9,
+ "blend": "blend/PH-Palawan-ElNido__nacpan-beach_glb.blend",
+ "blend_mb": 154.5
+}

@@ -1,0 +1,73 @@
+{
+ "name": "PH-Cebu-Metro__mactan-airport_SPLAT",
+ "src": "PH-Cebu-Metro/mactan-airport_SPLAT/ph-macia-airport_jawsetpostshot.ply",
+ "kind": "splat",
+ "comments": [],
+ "splat": {
+  "count": 2165927,
+  "sh_rest_coeffs": 45,
+  "sh_degree": 3,
+  "opacity_median": 0.21516552212758322,
+  "frac_opacity_gt_0.5": 0.2829993808655601,
+  "scale_median": 0.0002729258879850783,
+  "kept_for_analysis": 800454,
+  "core_kept": 661210
+ },
+ "raw_points": 661210,
+ "source_offset": [
+  -0.17636483907699585,
+  -0.8820647895336151,
+  0.3536066561937332
+ ],
+ "orientation": "Y-down converted to Z-up",
+ "points_after_trim": 657638,
+ "geometry": {
+  "voxel_size": 0.0006659549418663509,
+  "voxels": 11446,
+  "flat_frac": 0.003106936772235171,
+  "linear_frac": 0.08590520023850236,
+  "median_scatter": 0.20473691648049913,
+  "wall_frac_of_flat": 0.035685963521015066,
+  "horiz_frac_of_flat": 0.302934179222839,
+  "flat_frac_nonhoriz": 0.0016454164727780364,
+  "wall_orthogonality": 0.0,
+  "plane_cover_top12": 0.8841583333333333,
+  "plane_cover_excl_largest": 0.2662916666666666,
+  "largest_plane": 0.6178666666666667,
+  "plane_normals_z": [
+   0.93,
+   0.93,
+   0.93,
+   0.93,
+   0.96,
+   0.94,
+   0.93,
+   0.95,
+   0.96,
+   0.92,
+   0.95,
+   0.94
+  ],
+  "coarse": {
+   "voxel_size": 0.0026638197674654037,
+   "voxels": 6525,
+   "flat_frac": 0.006044177254923368,
+   "linear_frac": 0.09099702482496963,
+   "median_scatter": 0.11704804789588986,
+   "wall_frac_of_flat": 0.02173299463731301,
+   "horiz_frac_of_flat": 0.15580016934801016,
+   "flat_frac_nonhoriz": 0.0029090449162859086,
+   "wall_orthogonality": 0.0
+  },
+  "extent_xyz": [
+   0.355,
+   0.488,
+   0.32
+  ],
+  "cad_score": 0.2
+ },
+ "display_radius": 0.00015392961284071358,
+ "seconds": 4.6,
+ "blend": "blend/PH-Cebu-Metro__mactan-airport_SPLAT.blend",
+ "blend_mb": 33.6
+}

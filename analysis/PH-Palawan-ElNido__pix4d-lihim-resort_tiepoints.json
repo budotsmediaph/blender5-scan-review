@@ -1,0 +1,64 @@
+{
+ "name": "PH-Palawan-ElNido__pix4d-lihim-resort_tiepoints",
+ "src": "PH-Palawan-ElNido/lihim-resort_pix4d-project/lihim-resort-20230810-sunny/1_initial/project_data/result_tracks2_full_1.las",
+ "kind": "las",
+ "las_format": 3,
+ "comments": [],
+ "raw_points": 2325748,
+ "source_offset": [
+  761979.75,
+  1238329.312,
+  86.986
+ ],
+ "orientation": "auto PCA (eigen ratios 0.016, 0.460)",
+ "points_after_trim": 2300459,
+ "geometry": {
+  "voxel_size": 3.238340931093045,
+  "voxels": 51002,
+  "flat_frac": 0.006485333486549037,
+  "linear_frac": 0.049727473550839785,
+  "median_scatter": 0.22287582325283897,
+  "wall_frac_of_flat": 0.016519010705057218,
+  "horiz_frac_of_flat": 0.7625507567368033,
+  "flat_frac_nonhoriz": 0.0017582948454724532,
+  "wall_orthogonality": 0.0,
+  "plane_cover_top12": 0.578125,
+  "plane_cover_excl_largest": 0.4945583333333333,
+  "largest_plane": 0.08356666666666666,
+  "plane_normals_z": [
+   0.97,
+   1.0,
+   0.9,
+   1.0,
+   0.99,
+   0.99,
+   0.9,
+   1.0,
+   0.99,
+   0.99,
+   0.98,
+   0.99
+  ],
+  "coarse": {
+   "voxel_size": 12.95336372437218,
+   "voxels": 11829,
+   "flat_frac": 0.03188183467494754,
+   "linear_frac": 0.03894185167989101,
+   "median_scatter": 0.18133326737804656,
+   "wall_frac_of_flat": 0.0026654820079964462,
+   "horiz_frac_of_flat": 0.9878248556197246,
+   "flat_frac_nonhoriz": 0.0003766340504628634,
+   "wall_orthogonality": 0.0
+  },
+  "extent_xyz": [
+   1667.271,
+   1360.896,
+   203.914
+  ],
+  "cad_score": 1.0
+ },
+ "display_radius": 0.9931350668318584,
+ "seconds": 3.3,
+ "blend": "blend/PH-Palawan-ElNido__pix4d-lihim-resort_tiepoints.blend",
+ "blend_mb": 35.5
+}

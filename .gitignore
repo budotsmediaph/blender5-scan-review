@@ -1,0 +1,14 @@
+# Whitelist: only the report, metrics, scripts and the public gallery are versioned.
+# blend/ (812 MB), full-res previews/, the local index.html and per-photo GPS stay on disk.
+/*
+!/.gitignore
+!/README.md
+!/docs/
+!/scripts/
+!/analysis/
+/analysis/photo_exif.csv
+/analysis/moves.tsv
+/scripts/undo_*.sh
+._*
+.DS_Store
+__pycache__/

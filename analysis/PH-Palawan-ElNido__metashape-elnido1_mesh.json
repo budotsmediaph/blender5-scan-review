@@ -1,0 +1,66 @@
+{
+ "name": "PH-Palawan-ElNido__metashape-elnido1_mesh",
+ "src": "PH-Palawan-ElNido/elnido_metashape-projects/metahsape20230730_elnido.files/0/0/model/model.zip",
+ "kind": "msmesh",
+ "weld": {
+  "PH-Palawan-ElNido__metashape-elnido1_mesh": [
+   5957,
+   5956
+  ]
+ },
+ "raw_points": 5956,
+ "orientation": "auto PCA (eigen ratios 0.083, 0.422)",
+ "topology": {
+  "PH-Palawan-ElNido__metashape-elnido1_mesh": {
+   "verts": 5956,
+   "faces": 11844,
+   "tris": 11844,
+   "quads": 0,
+   "ngons": 0,
+   "boundary_edges": 138,
+   "nonmanifold_edges": 0,
+   "loose_edges": 0,
+   "euler_char": -35,
+   "planar_dissolve_5deg_face_ratio": 0.7922998986828774
+  }
+ },
+ "geometry": {
+  "voxel_size": 4.262842329069735,
+  "voxels": 203,
+  "flat_frac": 0.04028120843625309,
+  "linear_frac": 0.07676230286908607,
+  "median_scatter": 0.11223996800666458,
+  "wall_frac_of_flat": 0.0,
+  "horiz_frac_of_flat": 0.39622641509433965,
+  "flat_frac_nonhoriz": 0.02418582375478927,
+  "wall_orthogonality": 0.0,
+  "plane_cover_top12": 0.9323371390194762,
+  "plane_cover_excl_largest": 0.3999328408327737,
+  "largest_plane": 0.5324042981867025,
+  "plane_normals_z": [
+   1.0,
+   0.37,
+   1.0
+  ],
+  "coarse": {
+   "voxel_size": 17.05136931627894,
+   "voxels": 14,
+   "flat_frac": 0.0,
+   "linear_frac": 0.09974811083123426,
+   "median_scatter": 0.20643823444508072,
+   "wall_frac_of_flat": 0.0,
+   "horiz_frac_of_flat": 0.0,
+   "flat_frac_nonhoriz": 0.0,
+   "wall_orthogonality": 0.0
+  },
+  "extent_xyz": [
+   69.052,
+   47.05,
+   25.297
+  ],
+  "cad_score": 0.0
+ },
+ "seconds": 0.5,
+ "blend": "blend/PH-Palawan-ElNido__metashape-elnido1_mesh.blend",
+ "blend_mb": 0.4
+}

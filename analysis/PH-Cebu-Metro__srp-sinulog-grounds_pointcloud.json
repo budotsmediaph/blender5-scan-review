@@ -1,0 +1,65 @@
+{
+ "name": "PH-Cebu-Metro__srp-sinulog-grounds_pointcloud",
+ "src": "PH-Cebu-Metro/srp-sinulog-grounds_pointcloud/PH_CEBU_SRP_sinulog_groun_point_cloud.ply",
+ "kind": "pcd",
+ "comments": [
+  "comment Created by Open3D"
+ ],
+ "raw_points": 1690603,
+ "source_offset": [
+  0.09384489059448242,
+  -0.12844961881637573,
+  0.01006859540939331
+ ],
+ "orientation": "auto PCA (eigen ratios 0.001, 0.599)",
+ "points_after_trim": 1673137,
+ "geometry": {
+  "voxel_size": 0.021722582152357804,
+  "voxels": 44691,
+  "flat_frac": 0.7214710026898649,
+  "linear_frac": 0.03853672059681875,
+  "median_scatter": 0.006037046608000916,
+  "wall_frac_of_flat": 0.01007759836676369,
+  "horiz_frac_of_flat": 0.8850805139832969,
+  "flat_frac_nonhoriz": 0.22863647559262687,
+  "wall_orthogonality": 0.666464626678623,
+  "plane_cover_top12": 0.9154083333333334,
+  "plane_cover_excl_largest": 0.32361666666666666,
+  "largest_plane": 0.5917916666666667,
+  "plane_normals_z": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "coarse": {
+   "voxel_size": 0.08689032860943122,
+   "voxels": 14149,
+   "flat_frac": 0.6772157209695078,
+   "linear_frac": 0.04524175916388112,
+   "median_scatter": 0.01928701990082801,
+   "wall_frac_of_flat": 0.01567596310045905,
+   "horiz_frac_of_flat": 0.9433608632658338,
+   "flat_frac_nonhoriz": 0.09522031847379736,
+   "wall_orthogonality": 0.9129925704127332
+  },
+  "extent_xyz": [
+   36.9,
+   25.356,
+   0.762
+  ],
+  "cad_score": 84.2
+ },
+ "display_radius": 0.02364785683967948,
+ "seconds": 2.2,
+ "blend": "blend/PH-Cebu-Metro__srp-sinulog-grounds_pointcloud.blend",
+ "blend_mb": 25.6
+}

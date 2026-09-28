@@ -1,0 +1,75 @@
+{
+ "name": "PH-Palawan-ElNido__caalan-lihim-resort_glb",
+ "src": "PH-Palawan-ElNido/polycam-exports_glb-blend-video/palawan-elnido-caalan-lihimresrto.glb",
+ "kind": "glb",
+ "weld": {
+  "elnido-caalan-resort": [
+   2170738,
+   362490
+  ]
+ },
+ "raw_points": 362490,
+ "orientation": "auto PCA (eigen ratios 0.006, 0.111)",
+ "topology": {
+  "elnido-caalan-resort": {
+   "verts": 362490,
+   "faces": 723631,
+   "tris": 723631,
+   "quads": 0,
+   "ngons": 0,
+   "boundary_edges": 1459,
+   "nonmanifold_edges": 2,
+   "loose_edges": 0,
+   "euler_char": -53,
+   "planar_dissolve_5deg_face_ratio": 0.8130525
+  }
+ },
+ "geometry": {
+  "voxel_size": 0.02571948545341861,
+  "voxels": 11550,
+  "flat_frac": 0.13948520108684379,
+  "linear_frac": 0.07993348958441361,
+  "median_scatter": 0.047302393844483086,
+  "wall_frac_of_flat": 0.03425030978934324,
+  "horiz_frac_of_flat": 0.22458488228004955,
+  "flat_frac_nonhoriz": 0.10811605719268734,
+  "wall_orthogonality": 0.405063146832124,
+  "plane_cover_top12": 0.8282916666666668,
+  "plane_cover_excl_largest": 0.6816833333333334,
+  "largest_plane": 0.14660833333333334,
+  "plane_normals_z": [
+   1.0,
+   1.0,
+   0.99,
+   0.98,
+   0.96,
+   1.0,
+   1.0,
+   0.96,
+   1.0,
+   1.0,
+   0.97,
+   0.96
+  ],
+  "coarse": {
+   "voxel_size": 0.10287794181367443,
+   "voxels": 1713,
+   "flat_frac": 0.14417060824827815,
+   "linear_frac": 0.07147401322158603,
+   "median_scatter": 0.03238755722220947,
+   "wall_frac_of_flat": 0.00032615786040443573,
+   "horiz_frac_of_flat": 0.36777176624074287,
+   "flat_frac_nonhoriz": 0.09310076312100919,
+   "wall_orthogonality": 0.0
+  },
+  "extent_xyz": [
+   5.974,
+   2.703,
+   0.599
+  ],
+  "cad_score": 4.3
+ },
+ "seconds": 8.7,
+ "blend": "blend/PH-Palawan-ElNido__caalan-lihim-resort_glb.blend",
+ "blend_mb": 63.9
+}

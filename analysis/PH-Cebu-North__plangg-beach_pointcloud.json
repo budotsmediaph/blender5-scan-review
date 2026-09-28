@@ -1,0 +1,65 @@
+{
+ "name": "PH-Cebu-North__plangg-beach_pointcloud",
+ "src": "PH-Cebu-North/plangg-beach_pointcloud+photos/PlangG_beach_DB_point_cloud.ply",
+ "kind": "pcd",
+ "comments": [
+  "comment Created by Open3D"
+ ],
+ "raw_points": 990002,
+ "source_offset": [
+  -0.3516221046447754,
+  -0.7617221772670746,
+  0.44722265005111694
+ ],
+ "orientation": "auto PCA (eigen ratios 0.010, 0.593)",
+ "points_after_trim": 979120,
+ "geometry": {
+  "voxel_size": 0.031172164891601566,
+  "voxels": 19735,
+  "flat_frac": 0.7571909800531448,
+  "linear_frac": 0.051441385976273034,
+  "median_scatter": 0.006146754736894529,
+  "wall_frac_of_flat": 0.015202229463719607,
+  "horiz_frac_of_flat": 0.7080653756953909,
+  "flat_frac_nonhoriz": 0.40904317972223997,
+  "wall_orthogonality": 0.18111077098314451,
+  "plane_cover_top12": 0.8359500000000001,
+  "plane_cover_excl_largest": 0.2302416666666668,
+  "largest_plane": 0.6057083333333333,
+  "plane_normals_z": [
+   0.99,
+   0.99,
+   0.99,
+   1.0,
+   0.99,
+   0.99,
+   1.0,
+   0.98,
+   1.0,
+   1.0,
+   0.99,
+   1.0
+  ],
+  "coarse": {
+   "voxel_size": 0.12468865956640626,
+   "voxels": 9832,
+   "flat_frac": 0.664510741251147,
+   "linear_frac": 0.06453342314446647,
+   "median_scatter": 0.027300855982507463,
+   "wall_frac_of_flat": 0.009321128120259274,
+   "horiz_frac_of_flat": 0.8810250310302027,
+   "flat_frac_nonhoriz": 0.16860305910886828,
+   "wall_orthogonality": 0.2837924920557621
+  },
+  "extent_xyz": [
+   45.889,
+   23.274,
+   3.8
+  ],
+  "cad_score": 39.8
+ },
+ "display_radius": 0.03302728396019264,
+ "seconds": 1.6,
+ "blend": "blend/PH-Cebu-North__plangg-beach_pointcloud.blend",
+ "blend_mb": 13.9
+}

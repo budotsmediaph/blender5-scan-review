@@ -1,0 +1,101 @@
+{
+ "name": "PH-Palawan-ElNido__calaan-lihim_blend",
+ "src": "PH-Palawan-ElNido/polycam-exports_glb-blend-video/elnuido-calaan-lihim.blend",
+ "kind": "blend",
+ "blend_objects": [
+  [
+   "Camera",
+   "CAMERA"
+  ],
+  [
+   "Cube",
+   "MESH"
+  ],
+  [
+   "elnido-caalan-resort",
+   "MESH"
+  ],
+  [
+   "Light",
+   "LIGHT"
+  ]
+ ],
+ "blend_source_version": "3.6.11",
+ "weld": {},
+ "raw_points": 217527,
+ "orientation": "kept (importer Z-up)",
+ "topology": {
+  "elnido-caalan-resort": {
+   "verts": 217519,
+   "faces": 434169,
+   "tris": 434167,
+   "quads": 0,
+   "ngons": 2,
+   "boundary_edges": 974,
+   "nonmanifold_edges": 2,
+   "loose_edges": 0,
+   "euler_char": -54,
+   "planar_dissolve_5deg_face_ratio": 0.8258779353051617
+  },
+  "Cube": {
+   "verts": 8,
+   "faces": 6,
+   "tris": 0,
+   "quads": 6,
+   "ngons": 0,
+   "boundary_edges": 0,
+   "nonmanifold_edges": 0,
+   "loose_edges": 0,
+   "euler_char": 2,
+   "planar_dissolve_5deg_face_ratio": 1.0
+  }
+ },
+ "geometry": {
+  "voxel_size": 0.03557296111481233,
+  "voxels": 7158,
+  "flat_frac": 0.10306265437315638,
+  "linear_frac": 0.08634537057736243,
+  "median_scatter": 0.05140668895201671,
+  "wall_frac_of_flat": 0.013702253729764045,
+  "horiz_frac_of_flat": 0.25420590413712835,
+  "flat_frac_nonhoriz": 0.0749132365898833,
+  "wall_orthogonality": 0.0,
+  "plane_cover_top12": 0.9289666666666668,
+  "plane_cover_excl_largest": 0.7276000000000001,
+  "largest_plane": 0.20136666666666667,
+  "plane_normals_z": [
+   1.0,
+   0.99,
+   1.0,
+   1.0,
+   1.0,
+   0.95,
+   1.0,
+   0.97,
+   0.95,
+   1.0,
+   1.0,
+   0.97
+  ],
+  "coarse": {
+   "voxel_size": 0.14229184445924933,
+   "voxels": 934,
+   "flat_frac": 0.203769341033642,
+   "linear_frac": 0.06462912689377354,
+   "median_scatter": 0.026000022685707218,
+   "wall_frac_of_flat": 0.0,
+   "horiz_frac_of_flat": 0.449785116489482,
+   "flat_frac_nonhoriz": 0.13297285946768858,
+   "wall_orthogonality": 0.0
+  },
+  "extent_xyz": [
+   2.162,
+   5.836,
+   1.038
+  ],
+  "cad_score": 6.1
+ },
+ "seconds": 4.3,
+ "blend": "blend/PH-Palawan-ElNido__calaan-lihim_blend.blend",
+ "blend_mb": 116.1
+}

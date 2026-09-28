@@ -1,0 +1,65 @@
+{
+ "name": "PH-Cebu-Metro__mandaue-waterpark_pointcloud",
+ "src": "PH-Cebu-Metro/mandaue-waterpark_pointcloud/PG_WATERPARK_MANDAUE_point_cloud.ply",
+ "kind": "pcd",
+ "comments": [
+  "comment Created by Open3D"
+ ],
+ "raw_points": 1570679,
+ "source_offset": [
+  -0.19076144695281982,
+  0.3657335042953491,
+  -0.03149771690368652
+ ],
+ "orientation": "auto PCA (eigen ratios 0.009, 0.714)",
+ "points_after_trim": 1550299,
+ "geometry": {
+  "voxel_size": 0.01915852061953562,
+  "voxels": 47686,
+  "flat_frac": 0.5478125424433987,
+  "linear_frac": 0.07153270742035255,
+  "median_scatter": 0.013419254583080489,
+  "wall_frac_of_flat": 0.0652886181540866,
+  "horiz_frac_of_flat": 0.7001983435800389,
+  "flat_frac_nonhoriz": 0.2351047964818494,
+  "wall_orthogonality": 0.5971255180646725,
+  "plane_cover_top12": 0.8290166666666666,
+  "plane_cover_excl_largest": 0.54255,
+  "largest_plane": 0.28646666666666665,
+  "plane_normals_z": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "coarse": {
+   "voxel_size": 0.07663408247814248,
+   "voxels": 10246,
+   "flat_frac": 0.4272445573284975,
+   "linear_frac": 0.07211415008109291,
+   "median_scatter": 0.02885540404864803,
+   "wall_frac_of_flat": 0.05094980069755854,
+   "horiz_frac_of_flat": 0.8543426133532636,
+   "flat_frac_nonhoriz": 0.09488174185914293,
+   "wall_orthogonality": 0.8540749443899026
+  },
+  "extent_xyz": [
+   13.489,
+   9.985,
+   1.114
+  ],
+  "cad_score": 72.6
+ },
+ "display_radius": 0.00932070482526608,
+ "seconds": 2.3,
+ "blend": "blend/PH-Cebu-Metro__mandaue-waterpark_pointcloud.blend",
+ "blend_mb": 24.1
+}
